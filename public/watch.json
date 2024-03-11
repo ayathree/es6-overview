@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "brand": "Apple",
+      "model": "Apple Watch Series 7",
+      "case_material": "Aluminum",
+      "strap_material": "Sport Band",
+      "color": "Midnight",
+      "price": 399.99,
+      "release_date": "2022-09-14"
+    },
+    {
+      "id": 2,
+      "brand": "Samsung",
+      "model": "Galaxy Watch 4",
+      "case_material": "Stainless Steel",
+      "strap_material": "Leather Band",
+      "color": "Mystic Bronze",
+      "price": 349.99,
+      "release_date": "2021-08-27"
+    },
+    {
+      "id": 3,
+      "brand": "Fitbit",
+      "model": "Fitbit Versa 3",
+      "case_material": "Aluminum",
+      "strap_material": "Silicone Band",
+      "color": "Black",
+      "price": 229.99,
+      "release_date": "2020-09-25"
+    }
+  ]
+  
